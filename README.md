@@ -9,7 +9,7 @@ Using given starter code from UT Austin's bootcamp course, the goal of this chal
 - [License](#license)
 
 ## Getting Started
-
+Vist the deployed GitHub page [here](https://dominique216.github.io/Code-Refactor/)
 ## Installation
 1. Copy the SSH key from the Repo into a folder on your own computer
 2. Once the files are installed, open the folder in your personal workspace
