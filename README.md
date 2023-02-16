@@ -3,9 +3,13 @@
 ## Description 
 Using given starter code from UT Austin's bootcamp course, the goal of this challenge was to refactor the layout of a website to match a picture given to us. We were also tasked with making this website follow accessibility standards, use semantic HTML elements, and write code that follows logical structure independent of styling and positioning.
 ## Table of Contents
+- [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Getting Started
+
 ## Installation
 1. Copy the SSH key from the Repo into a folder on your own computer
 2. Once the files are installed, open the folder in your personal workspace
